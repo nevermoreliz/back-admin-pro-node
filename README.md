@@ -1,4 +1,4 @@
 #adminpro - back end
 recuerden ejecutar
 
-npm install 
+npm install # mean-back
